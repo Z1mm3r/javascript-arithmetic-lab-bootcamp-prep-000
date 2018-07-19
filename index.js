@@ -18,3 +18,18 @@ function divide(a,b)
   return (a / b)
 }
 
+function inc(n)
+{
+  return a--
+}
+
+function dec(n)
+{
+  return n--
+}
+
+makeInt(n)
+{
+  return parseInt(n,10)
+}
+
